@@ -3,7 +3,7 @@
 <package format="3">
   <name>gyo_rhe_newpackage</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Szinuszjel generálása és átalakítása háromszögjelre</description>
   <maintainer email="todo@todo.com">TODO:</maintainer>
   <license>GNU General Public License v3.0</license>
 
@@ -11,6 +11,7 @@
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
   <depend>geometry_msgs</depend>
+  <depend>visualization_msgs</depend>
   <exec_depend>ros2launch</exec_depend>
 
   <test_depend>ament_lint_auto</test_depend>
