@@ -33,4 +33,4 @@ ros2 launch ros2_cpp_template launch_example1.launch.py
 ```
 
 ### Eredmény
-![alt text](https://github.com/gymr01/gyo_rhe_sintotriangle.git/img/img_plot.PNG)
+![Eredmény](img/img_plot.PNG)
