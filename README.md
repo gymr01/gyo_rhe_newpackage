@@ -1,5 +1,5 @@
-# `ros2_cpp_template` package
-ROS 2 C++ package.  [![Static Badge](https://img.shields.io/badge/ROS_2-Humble-34aec5)](https://docs.ros.org/en/humble/)
+# Szinusz jel háromszög jellé alakítása.
+
 ## Packages and build
 
 It is assumed that the workspace is `~/ros2_ws/`.
@@ -9,7 +9,7 @@ It is assumed that the workspace is `~/ros2_ws/`.
 cd ~/ros2_ws/src
 ```
 ``` r
-git clone https://github.com/sze-info/ros2_cpp_template
+git clone https://github.com/gymr01/gyo_rhe_sintotriangle.git
 ```
 
 ### Build ROS 2 packages
@@ -17,7 +17,7 @@ git clone https://github.com/sze-info/ros2_cpp_template
 cd ~/ros2_ws
 ```
 ``` r
-colcon build --packages-select ros2_cpp_template --symlink-install
+colcon build --packages-select gyo_rhe_sintotriangle --symlink-install
 ```
 
 <details>
