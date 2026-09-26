@@ -31,3 +31,6 @@ source ~/ros2_ws/install/setup.bash
 ``` r
 ros2 launch ros2_cpp_template launch_example1.launch.py
 ```
+
+### Eredmény
+![alt text]([src/img/img.png])
