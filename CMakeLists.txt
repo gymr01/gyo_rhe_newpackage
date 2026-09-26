@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(gyo_rhe_newpackage)
+project(gyo_rhe_sintotriangle)
 
 if(NOT CMAKE_CXX_STANDARD)
   set(CMAKE_CXX_STANDARD 14)
