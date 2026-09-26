@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>gyo_rhe_sintotriangle</name>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <description>Szinuszjel generálása és átalakítása háromszögjelre</description>
   <maintainer email="gyore.mark.01@gmail.com">Györe Márk</maintainer>
   <license>GNU General Public License v3.0</license>
